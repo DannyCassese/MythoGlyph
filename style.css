@@ -1,5 +1,5 @@
 body {
-  font-family: Sans-serif;
+  font-family: "Copper Plate", Fantasy;
   font-size: 12px;
   display: flex;
   justify-content: center;
@@ -7,9 +7,9 @@ body {
   
   /*background: rgb(131,58,180); */
   
-  background-image: url(1background.JPEG);
+  background-image: url(pagebackground.JPEG);
   background-size: auto; 
-  color: white;
+  color: black;
 }
 .box {
   max-width: 300px;
